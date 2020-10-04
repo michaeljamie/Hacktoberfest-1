@@ -36,12 +36,15 @@ Step #2: Learn how to make a pull request
 Pull requests are a way of contributing your code changes to an open source project. They use a tool called Git, which runs on a social coding platform called GitHub.
 
 
-<img src="https://assets.digitalocean.com/articles/hfestfirstpr-clone.gif" width="500" height="400">&nbsp;&nbsp;
+<img src="https://assets.digitalocean.com/articles/hfestfirstpr-clone.gif">&nbsp;&nbsp;
 
 
 Follow the above given links to learn :)
 
 Step #3 : Create/Search an issue to make a pull request
+
+
+<img src="https://assets.digitalocean.com/articles/hfestfirstpr-pr.gif">&nbsp;&nbsp;
 
 If you are a programmer/developer , there are thousands of repositiries available on Github on which you can create a pull request.
 
