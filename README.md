@@ -48,4 +48,15 @@ Step #3 : Create/Search an issue to make a pull request
 
 If you are a programmer/developer , there are thousands of repositiries available on Github on which you can create a pull request.
 
+Step #4: Make 3 more pull requests
+
+You can make three more pull requests to the freeCodeCamp Guide, or whatever open source project you want. Here’s a more detailed guide to contributing to open source, if you’re feeling adventurous.
+
+Step #5: Check and see whether you’ve qualified
+
+Once you’ve signed up for Hacktoberfest, you can check your progress on the Hacktoberfest website.
+
+Step #6: Wait for your Hacktoberfest 2017 shirt to arrive in the mail
+
+# Visit the Hactoberfest website to know More : https://hacktoberfest.digitalocean.com/
 
