@@ -23,4 +23,4 @@ Q. What will you get if you participate in it ?
 
 A limited edition T-shirt for FREE!
 
-<img src="https://www.pngitem.com/pimgs/m/114-1140553_hacktoberfest-t-shirt-2019-hd-png-download.png">&nbsp;&nbsp;
+<img src="https://www.pngitem.com/pimgs/m/114-1140553_hacktoberfest-t-shirt-2019-hd-png-download.png" width="500" height="400">&nbsp;&nbsp;
