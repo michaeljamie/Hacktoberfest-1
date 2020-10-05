@@ -56,7 +56,7 @@ Step #5: Check and see whether you’ve qualified
 
 Once you’ve signed up for Hacktoberfest, you can check your progress on the Hacktoberfest website.
 
-Step #6: Wait for your Hacktoberfest 2017 shirt to arrive in the mail
+Step #6: Wait for your Hacktoberfest 2020 shirt to arrive in the mail
 
 # Visit the Hactoberfest website to know More : https://hacktoberfest.digitalocean.com/
 
