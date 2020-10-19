@@ -46,7 +46,9 @@ Step #3 : Create/Search an issue to make a pull request
 
 <img src="https://assets.digitalocean.com/articles/hfestfirstpr-pr.gif">&nbsp;&nbsp;
 
-If you are a programmer/developer , there are thousands of repositiries available on Github on which you can create a pull request.
+If you are a programmer/developer, there are thousands of repositories available on Github on which you can create a pull request.  You can search for qualifying repositories with this link:
+
+https://github.com/topics/hacktoberfest
 
 Step #4: Make 3 more pull requests
 
